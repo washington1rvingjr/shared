@@ -1,2 +1,2 @@
-Jim - adding line
+Jim - jim changed first line 
 Jim - another line
